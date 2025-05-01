@@ -1,7 +1,7 @@
 # Dockerhub Publisher
 
 
-<img src="https://flagcdn.com/w20/ru.png" alt="EN flag"> [Read in English](README.md)
+<img src="https://flagcdn.com/w20/en.png" alt="EN flag"> [Read in English](README.md)
 
 ## Описание
 **Dockerhub Publisher** — скрипт для автоматизации сборки и публикации Docker-образов на Docker Hub.
@@ -106,7 +106,7 @@ docker run -d -p 8080:8080 \
    ```
 Контейнер должен отображаться в списке с именем ```tomcat```.
 
-Откройте браузер и перейдите по адресу [http://localhost:8080](http://localhost:8080).
+2. Откройте браузер и перейдите по адресу [http://localhost:8080](http://localhost:8080).
 
 Если всё настроено корректно, откроется страница веб-приложения.
 

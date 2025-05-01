@@ -108,7 +108,7 @@ docker ps
 ```
 The container should appear with the name `tomcat`.
 
-Open your browser and go to [http://localhost:8080](http://localhost:8080).
+2. Open your browser and go to [http://localhost:8080](http://localhost:8080).
 
 If everything is configured correctly, you will see the web app page.
 
