@@ -1,6 +1,6 @@
 # Dockerhub Publisher
 
-<img src="https://flagcdn.com/w20/us.png" alt="RU flag"> [Читать по-русски](README.ru.md)
+<img src="https://flagcdn.com/w20/ru.png" alt="RU flag"> [Читать по-русски](README.ru.md)
  
 ## Description
 **Dockerhub Publisher** is a script for automating the build and publishing of Docker images to Docker Hub.
