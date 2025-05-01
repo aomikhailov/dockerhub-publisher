@@ -6,9 +6,9 @@
 **Dockerhub Publisher** is a script for automating the build and publishing of Docker images to Docker Hub.
 
 If you regularly work with Docker and often build and publish local images, sooner or later you'll face these questions:
-- Where to store build parameters and additional files```
-- How to securely pass login and access token to Docker Hub```
-- How to simplify and speed up the entire process```
+- Where to store build parameters and additional files?
+- How to securely pass login and access token to Docker Hub?
+- How to simplify and speed up the entire process?
 
 **Dockerhub Publisher** solves these problems: it simplifies configuration, makes the process reproducible and safe, and reduces manual actions to a minimum.
 
