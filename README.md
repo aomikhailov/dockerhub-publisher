@@ -23,7 +23,7 @@ If you regularly work with Docker and often build and publish local images, soon
 2. Run the setup script:
 
 In the example below, `/opt/dockerhub-publisher/` is the folder where your image build projects will be stored, and `docker-image` is the name of a specific image project.
-Note: Writing to `/opt/dockerhub-publisher/` requires root access, but you're free to use any directory where you have write permission. If you use another path, adjust the parameter accordingly.
+Note: Writing to `/opt/` requires root access, but you're free to use any directory where you have write permission. If you use another path, adjust the parameter accordingly.
 
 ```bash
 ./setup.sh install /opt/dockerhub-publisher/docker-image
