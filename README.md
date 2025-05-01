@@ -113,5 +113,6 @@ The container should appear with the name `tomcat`.
 If everything is configured correctly, you will see the web app page.
 
 ## License
-This project is licensed under the MIT License. See [LICENSE](./LICENSE) for details.
+This project is licensed under the MIT License.  
+See the [LICENSE](LICENSE) file for details.
 
